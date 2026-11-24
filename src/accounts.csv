@@ -1,0 +1,4 @@
+accountNumber,holderName,type,balance
+SA001,John Doe,SAVINGS,900.0
+CA001,Jane Smith,CURRENT,2000.0
+SA002,Alice Johnson,SAVINGS,1900.0
